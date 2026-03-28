@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 🚀 About Me<br><br>Hi, I'm **Hasnain Abbas** 👋  <br>A passionate **BS Computer Science student** with a strong interest in **Software Development** and **Data Science**.<br><br>💻 I enjoy building real-world projects using:  <br>- C / C++  <br>- Python (Basics)  <br>- HTML, CSS, Bootstrap  <br>- SQL  <br><br>📊 Currently, I'm working on:  <br>- Machine Learning projects  <br>- Data Science concepts  <br>- Improving problem-solving skills (DSA)<br><br>🎯 My goal is to become a skilled **Software Engineer** and build impactful digital solutions.<br><br>📚 Always learning, growing, and exploring new technologies.<br><br>### 🔗 Connect with Me<br>📧 Email: psb840.pk@gmail.com  
+### 🚀 About Me<br><br>Hi, I'm **Hasnain Abbas** 👋  <br>A passionate **BS Computer Science student** with a strong interest in **Software Development** and **Data Science**.<br><br>📊 Currently, I'm working on:  <br>- Machine Learning projects  <br>- Data Science concepts  <br>- Improving problem-solving skills (DSA)<br><br>🎯 My goal is to become a skilled **Software Engineer** and build impactful digital solutions.<br><br>📚 Always learning, growing, and exploring new technologies.<br><br>### 🔗 Connect with Me<br>📧 Email: psb840.pk@gmail.com  
 
 
 # 💻 Tech Stack:
